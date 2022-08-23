@@ -27,3 +27,32 @@ C:\Users\20106\source\repos\Eftaa_Employees\Eftaa_Employees\obj\Debug\net6.0\Eft
 C:\Users\20106\source\repos\Eftaa_Employees\Eftaa_Employees\obj\Debug\net6.0\ref\Eftaa_Employees.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.pdb
 C:\Users\20106\source\repos\Eftaa_Employees\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.genruntimeconfig.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\appsettings.Development.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\appsettings.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.staticwebassets.runtime.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.exe
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.deps.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.runtimeconfig.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\ref\Eftaa_Employees.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Eftaa_Employees.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Bl.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Bl.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\bin\Debug\net6.0\Dal.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.csproj.AssemblyReference.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.GeneratedMSBuildEditorConfig.editorconfig
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.AssemblyInfoInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.AssemblyInfo.cs
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.csproj.CoreCompileInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.MvcApplicationPartsAssemblyInfo.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.RazorAssemblyInfo.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.RazorAssemblyInfo.cs
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\staticwebassets.build.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\staticwebassets.development.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\scopedcss\bundle\Eftaa_Employees.styles.css
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.csproj.CopyComplete
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\ref\Eftaa_Employees.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Eftaa_Employees\obj\Debug\net6.0\Eftaa_Employees.genruntimeconfig.cache

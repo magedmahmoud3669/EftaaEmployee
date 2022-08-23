@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj",
+      "projectUniqueName": "E:\\بيانات العاملين بالدار\\EftaaEmployee\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj",
+      "projectPath": "E:\\بيانات العاملين بالدار\\EftaaEmployee\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\20106\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\obj\\",
+      "outputPath": "E:\\بيانات العاملين بالدار\\EftaaEmployee\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20106\\AppData\\Roaming\\NuGet\\NuGet.Config",
