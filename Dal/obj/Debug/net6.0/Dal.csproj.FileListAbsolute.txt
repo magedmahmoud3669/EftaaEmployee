@@ -9,3 +9,14 @@ C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.csproj.Core
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\ref\Dal.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.deps.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\bin\Debug\net6.0\ref\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\ref\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.pdb

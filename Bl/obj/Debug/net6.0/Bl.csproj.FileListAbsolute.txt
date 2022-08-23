@@ -13,3 +13,18 @@ C:\Users\20106\source\repos\Eftaa_Employees\Bl\obj\Debug\net6.0\Bl.csproj.CopyCo
 C:\Users\20106\source\repos\Eftaa_Employees\Bl\obj\Debug\net6.0\Bl.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Bl\obj\Debug\net6.0\ref\Bl.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Bl\obj\Debug\net6.0\Bl.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\Bl.deps.json
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\Bl.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\ref\Bl.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\Bl.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\Dal.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\bin\Debug\net6.0\Dal.pdb
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\ref\Bl.dll
+E:\بيانات العاملين بالدار\EftaaEmployee\Bl\obj\Debug\net6.0\Bl.pdb
