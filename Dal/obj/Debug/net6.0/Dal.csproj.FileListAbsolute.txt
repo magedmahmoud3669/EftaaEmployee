@@ -9,3 +9,17 @@ C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.csproj.Core
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\ref\Dal.dll
 C:\Users\20106\source\repos\Eftaa_Employees\Dal\obj\Debug\net6.0\Dal.pdb
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.deps.json
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.dll
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.pdb
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.dll
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\refint\Dal.dll
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.pdb
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\ref\Dal.dll
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\bin\Debug\net6.0\Dal.runtimeconfig.json
+I:\DotNet\بيانات العاملين\EftaaEmployee\Dal\obj\Debug\net6.0\Dal.genruntimeconfig.cache

@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eftaa_Employees", "Eftaa_Employees\Eftaa_Employees.csproj", "{64D0C404-0D9E-4CA7-A13F-75D079B102CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{3F0A9FB1-E126-4327-93EE-6AD57F057A54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dal", "Dal\Dal.csproj", "{3F0A9FB1-E126-4327-93EE-6AD57F057A54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bl", "Bl\Bl.csproj", "{B7BC20C7-1B59-4701-BF9B-C64A99E4541C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bl", "Bl\Bl.csproj", "{B7BC20C7-1B59-4701-BF9B-C64A99E4541C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

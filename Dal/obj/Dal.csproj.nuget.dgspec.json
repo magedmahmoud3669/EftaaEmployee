@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj": {}
+    "I:\\DotNet\\بيانات العاملين\\EftaaEmployee\\Dal\\Dal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj": {
+    "I:\\DotNet\\بيانات العاملين\\EftaaEmployee\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj",
+        "projectUniqueName": "I:\\DotNet\\بيانات العاملين\\EftaaEmployee\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\Dal.csproj",
-        "packagesPath": "C:\\Users\\20106\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20106\\source\\repos\\Eftaa_Employees\\Dal\\obj\\",
+        "projectPath": "I:\\DotNet\\بيانات العاملين\\EftaaEmployee\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\maged\\.nuget\\packages\\",
+        "outputPath": "I:\\DotNet\\بيانات العاملين\\EftaaEmployee\\Dal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\20106\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maged\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
